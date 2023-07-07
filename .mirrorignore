@@ -1,2 +1,3 @@
-src/private-folder
-src/deleted-private-folder
+.github/workflows/test.yml
+src/private-folder/
+src/deleted-private-folder/
